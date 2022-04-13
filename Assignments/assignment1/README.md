@@ -31,14 +31,14 @@ Only give instructions for the general running of your shell and anything you fe
 |  cp     |  copy file1 and call it file2|Kehinde|           |
 |  !x     |  this loads command x from your history so you can run it again|Kehinde|        |
 |  history|  show a history of all your commands|Kehinde|         |
-|  mv     |  move or rename file1 to file2| Esther|       |
-|  head   |  display the first few lines of a file|Esther |       |
-|  tail   |  display the last few lines of a file| Esther |        |
-|  cat    |  display a file| Esther|       |
-|  rmdir  |  remove a directory| Esther|      |
-|  who    |  list users currently logged in|Esther|       |
-|  chmod  |  change modify permission|Esther|         |
-| less    |   display a file a page at a time |Esther      |         |
+|  mv     |  move or rename file1 to file2| Kehinde|       |
+|  head   |  display the first few lines of a file|Kehinde |       |
+|  tail   |  display the last few lines of a file| Kehinde |        |
+|  cat    |  display a file| Kehinde|       |
+|  rmdir  |  remove a directory| Kehinde|      |
+|  who    |  list users currently logged in|Kehinde|       |
+|  chmod  |  change modify permission|Kehinde|         |
+| less    |   display a file a page at a time |Kehinde      |         |
 
 
 
